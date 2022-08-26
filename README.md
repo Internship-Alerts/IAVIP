@@ -8,8 +8,10 @@ An initiative taken by IA Team is Internship Alerts organizes a Virtual Internsh
 
 Many people are not getting the updates due to lack of opportunity, lack of resources, lack of awareness that what is going on in the corporate sector. To meet the need of such people we made Internship Alerts. 
 
-                                                          "Build yourself in which you are passionate!"
+                                   "Build yourself in which you are passionate!"
                                                           
 
 You can go through to our previous orientation sessions: https://youtu.be/L0aAZEmroik
+
+This repo contains task list and the templates of the tasks.
 
